@@ -1,4 +1,4 @@
-## Olá! Eu sou o Emerson Araújo
+## Hi! I am Emerson Araújo
 
 - 👨 Today I work with Front-End...
 - 💻☘ Vuejs programmer...
@@ -14,7 +14,7 @@
 </div>
 
   
-   #### Tecnologias que uso no meu dia 
+   #### Technologies I use in my day 
   
   <div style="display: inline_block"><br>
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
