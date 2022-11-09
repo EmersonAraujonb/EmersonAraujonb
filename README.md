@@ -6,13 +6,11 @@
 ##
 
 
-
-<div align="center">
-  <a href="https://github.com/EmersonAraujonb">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EmersonAraujonb&show_icons=true&theme=dark"/> 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmersonAraujonb&layout=compact&langs_count=7&theme=dark"/>
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmersonAraujonb&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmersonAraujonb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
   
    #### Technologies I use in my day 
   
@@ -26,7 +24,6 @@
      <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
     <img  align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
     <img  align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-     <img  align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     <img  align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" />
 </div>
   
