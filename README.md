@@ -26,7 +26,7 @@
     <img  align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
     <img  align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" />
 </div>
-  
+  ![Snake animation](https://github.com/EmersonAraujonb/EmersonAraujonb/blob/output/github-contribution-grid-snake.svg)
 ##
   <div>
     <a href = "mailto:emersonsantos0302@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
