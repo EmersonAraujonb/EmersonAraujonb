@@ -7,11 +7,15 @@
 
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmersonAraujonb&layout=compact&langs_count=7&theme=midnight-purple"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmersonAraujonb&theme=dracula&show_icons=true"/>
-  
+   <a href="https://github.com/EmersonAraujonb">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmersonAraujonb&layout=compact&langs_count=7&theme=midnight-purple"/>
+   <picture>
+     <source srcset="https://github-readme-stats.vercel.app/api?username=EmersonAraujonb&show_icons=true&theme=midnight-purple" media="(prefers-color-scheme: dark)"/>
+     <img src="https://github-readme-stats.vercel.app/api?username=EmersonAraujonb&show_icons=true" />
+   </picture>
 </div>
+
+  
   
    #### Technologies I use in my day 
   
